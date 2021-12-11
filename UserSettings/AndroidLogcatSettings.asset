@@ -1,9 +1,9 @@
 {
-    "m_SelectedDeviceId": "1WMHH830560525",
+    "m_SelectedDeviceId": "emulator-5554",
     "m_SelectedPackage": {
-        "deviceId": "1WMHH830560525",
+        "deviceId": "emulator-5554",
         "name": "com.GeorgeBrownCollege.GAME2014F2021Lab10",
-        "processId": 1388,
+        "processId": 3325,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,12 @@
             "deviceId": "emulator-5554",
             "name": "com.ldmnq.launcher3",
             "processId": 1762,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.GeorgeBrownCollege.GAME2014F2021Lab10",
+            "processId": 3325,
             "exited": false
         },
         {
